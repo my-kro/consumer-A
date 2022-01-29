@@ -1,0 +1,8 @@
+{
+ "name": "consumer-A",
+  
+  "dependencies": {
+    "sdk1": 11.11.10
+  }
+  
+}
